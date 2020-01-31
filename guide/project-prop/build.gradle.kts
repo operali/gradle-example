@@ -1,6 +1,6 @@
 
 
-tasks.register("prop") {
+tasks.register("main") {
     description="project-prop desc"    
     doLast {
         println("project:${project}")
@@ -9,7 +9,8 @@ tasks.register("prop") {
         println("description:$description")
         println("projectDir:$projectDir")
         println("buildDir:$buildDir")
-        println("projectDir:$projectDir")
-        
+        // project is the top env/receiver?, you can skip it
+        println("projectDir:${project.projectDir}")
+        println("rootDir:$rootDir")
     }
 }

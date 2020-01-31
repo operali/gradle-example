@@ -74,3 +74,5 @@ apply {
 [guides & document](https://gradle.org/guides/)
 
 [get started](https://docs.gradle.org/current/userguide/getting_started.html)
+
+[sample](https://github.com/gradle/kotlin-dsl-samples/tree/master/samples)
