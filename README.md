@@ -64,6 +64,8 @@ apply {
 
 ```
 
+## Tips
+1. 可以在idea里方便创建gradle项目
 
 ## Reference
 
