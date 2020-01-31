@@ -33,6 +33,10 @@ repositories {
 ### [kotlin javascript](https://kotlinlang.org/docs/tutorials/javascript/getting-started-gradle/getting-started-with-gradle.html)
 
 
+### [Getting Started](https://docs.gradle.org/current/userguide/getting_started.html) 
+- [Five things](https://docs.gradle.org/current/userguide/what_is_gradle.html#five_things)
+- projects, tasks, and the file API.
+
 ## FAQ
 > gradle wrapper 是什么, 为何用gradlew 替代gradle?\
 > 答： \
